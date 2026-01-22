@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateEmailSignature", "UpdateEmailSignature\UpdateEmailSignature.csproj", "{14AFF086-5A09-4037-96C8-05BB83A0DFCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14AFF086-5A09-4037-96C8-05BB83A0DFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14AFF086-5A09-4037-96C8-05BB83A0DFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14AFF086-5A09-4037-96C8-05BB83A0DFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14AFF086-5A09-4037-96C8-05BB83A0DFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {690FCD44-3898-4EC2-B28F-14E72AB52B7C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+Z:\IT отдел\Отчик К. А\C#\at work\UpdateEmailSignature\UpdateEmailSignature\UpdateEmailSignature\bin\Release\net8.0\publish\win-x86\UpdateEmailSignature.pdb
+Z:\IT отдел\Отчик К. А\C#\at work\UpdateEmailSignature\UpdateEmailSignature\UpdateEmailSignature\bin\Release\net8.0\publish\win-x86\Microsoft.Data.SqlClient.SNI.dll
+Z:\IT отдел\Отчик К. А\C#\at work\UpdateEmailSignature\UpdateEmailSignature\UpdateEmailSignature\bin\Release\net8.0\publish\win-x86\UpdateEmailSignature.exe
