@@ -1,2 +1,10 @@
-bin/
-obj/
+**/Debug/
+**/Release/
+**/publish/
+.obsidian/
+**/obj/
+**/Properties/
+.vs/
+
+CheckingDismissedEmployees/CheckingDismissedEmployees.csproj
+CheckingDismissedEmployees/CheckingDismissedEmployees.csproj.user
