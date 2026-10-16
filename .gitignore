@@ -6,5 +6,5 @@
 **/Properties/
 .vs/
 
-UpdateEmailSignature/UpdateEmailSignature/UpdateEmailSignature.csproj.user
-UpdateEmailSignature/UpdateEmailSignature/UpdateEmailSignature.csproj
+UpdateEmailSignature/UpdateEmailSignature.csproj.user
+UpdateEmailSignature/UpdateEmailSignature.csproj
